@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicProject", "BasicProject\BasicProject.pyproj", "{4EF4F8BC-3E9F-4AED-8C3C-877910E6F40B}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWeb", "FlaskWeb\FlaskWeb.pyproj", "{D804106F-26AB-4D96-BD18-D3501759FE51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4EF4F8BC-3E9F-4AED-8C3C-877910E6F40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF4F8BC-3E9F-4AED-8C3C-877910E6F40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF4F8BC-3E9F-4AED-8C3C-877910E6F40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D804106F-26AB-4D96-BD18-D3501759FE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D804106F-26AB-4D96-BD18-D3501759FE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D804106F-26AB-4D96-BD18-D3501759FE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D804106F-26AB-4D96-BD18-D3501759FE51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
